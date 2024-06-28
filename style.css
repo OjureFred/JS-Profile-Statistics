@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: yellow;
+    font-family: cursive;
+}
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-top: -30px;
+}
+.stats-container {
+    margin: 2%;
+    width: 200px;
+    border: 1px gray dotted;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+
+}
